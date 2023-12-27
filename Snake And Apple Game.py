@@ -1,4 +1,3 @@
-# Add background image and music
 
 import pygame
 from pygame.locals import *
